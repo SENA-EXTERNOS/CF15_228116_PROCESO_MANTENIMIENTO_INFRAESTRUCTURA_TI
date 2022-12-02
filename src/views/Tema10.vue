@@ -71,7 +71,8 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema10/img08.png")
       .col-lg-6(data-aos="fade-left")
-        p.mb-0 Los protocolos para la transmisión de datos en internet más importantes son TCP - Protocolo de Control de Transmisión e IP - Protocolo de Internet. De manera conjunta - TCP/IP podemos enlazar los dispositivos que acceden a la red, algunos otros protocolos de comunicación asociados a internet son POP, SMTP y HTTP.
+        .cajon.color-acento-botones.p-4
+          p.mb-0 Los protocolos para la transmisión de datos en internet más importantes son TCP - Protocolo de Control de Transmisión e IP - Protocolo de Internet. De manera conjunta - TCP/IP podemos enlazar los dispositivos que acceden a la red, algunos otros protocolos de comunicación asociados a internet son POP, SMTP y HTTP.
 
 </template>
 

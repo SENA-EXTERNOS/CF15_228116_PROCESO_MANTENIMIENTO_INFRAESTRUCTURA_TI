@@ -58,12 +58,12 @@
         img(src="@/assets/curso/tema5/img01.svg")
       .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="BGR06")
-          div(titulo="Dependiendo del usuario, puede ser")
-            p.mb-0 Un sistema operativo multiusuario que permite que varios usuarios ejecuten sus programas al mismo tiempo, o un sistema operativo de un solo usuario que permite que solo se ejecute el programa de un usuario a la vez.
-          div(titulo="Dependiendo de cómo se administren las tareas, pueden ser")
-            p.mb-0 Un sistema operativo de una sola tarea que permite que solo se ejecute un proceso a la vez, o un sistema operativo multitarea que puede ejecutar varios procesos al mismo tiempo. 
-          div(titulo="Dependiendo de la gestión de recursos, puede ser")
-            p.mb-0 Un sistema operativo centralizado que permite utilizar los recursos de una sola computadora, o un sistema operativo distribuido que permite que varias computadoras trabajen simultáneamente.
+          div(titulo="Sistema Operativo Multiusuario")
+            p.mb-0 Dependiendo del usuario, puede ser: un sistema operativo multiusuario que permite que varios usuarios ejecuten sus programas al mismo tiempo, o un sistema operativo de un solo usuario que permite que solo se ejecute el programa de un usuario a la vez.
+          div(titulo="Sistema Operativo una sola tarea")
+            p.mb-0 Dependiendo de cómo se administren las tareas, pueden ser: un sistema operativo de una sola tarea que permite que solo se ejecute un proceso a la vez, o un sistema operativo multitarea que puede ejecutar varios procesos al mismo tiempo.
+          div(titulo="Sistema Operativo Centralizado")
+            p.mb-0 Dependiendo de la gestión de recursos, puede ser: un sistema operativo centralizado que permite utilizar los recursos de una sola computadora, o un sistema operativo distribuido que permite que varias computadoras trabajen simultáneamente.
 
 </template>
 

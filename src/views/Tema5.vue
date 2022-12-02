@@ -6,8 +6,9 @@
       .titulo-principal__numero
         span 5
       h1 Electricidad
-    
+
     .BGM05.px-md-5.px-4.py-4.mb-4
+      p.mb-5 Avanzando con el tema, la electricidad se caracteriza por:
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
           AcordionA.mb-5(tipo="a" clase-tarjeta="BGR06")

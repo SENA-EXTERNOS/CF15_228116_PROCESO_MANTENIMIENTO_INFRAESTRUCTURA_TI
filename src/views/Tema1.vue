@@ -39,7 +39,7 @@
     .h4 Prácticas de protección personal
     p.animation-1.mb-5 Las prácticas seguras de trabajo ayudan a prevenir lesiones personales y daños a los equipos informáticos. Por seguridad, el lugar de trabajo debe estar limpio, organizado y debidamente iluminado. Todos deben entender y seguir las reglas de seguridad.<br><br>Siga siempre las instrucciones básicas de seguridad para evitar cortes, quemaduras, descargas eléctricas y daños en los ojos. Se recomienda tener a mano un extintor y un botiquín de primeros auxilios en caso de incendio o accidente. Los cables retorcidos o sueltos pueden suponer un riesgo de fallo en la instalación de la red. Los cables deben colocarse en conductos de cables o bandejas de cables para evitar peligros.<br><br>A continuación, se proporciona una lista completa de medidas básicas de seguridad informática:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-primario
           .BGR02.p-4(titulo="Medida 1")
