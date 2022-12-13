@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.order-lg-1.order-2(data-aos="flip-up")
         .cajon.color-primario.p-4
-          p texto Para representar estos planos, es posible utilizar diferentes tipos de planos eléctricos prescritos y estandarizados, donde el plano eléctrico se entiende como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico.
+          p Para representar estos planos, es posible utilizar diferentes tipos de planos eléctricos prescritos y estandarizados, donde el plano eléctrico se entiende como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico.
           p.mb-0 En la confección de un plano o un esquema se suelen utilizar símbolos y figuras, así como marcas o referencias.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema7/img01.png")

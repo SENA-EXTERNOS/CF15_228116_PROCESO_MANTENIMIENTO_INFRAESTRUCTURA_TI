@@ -23,7 +23,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-secundario
-          .BGR02.p-4(titulo="Herramientas ESD")
+          .BGR02.p-4(titulo="ESD")
             .h4 Herramientas ESD
             p Existen dos herramientas ESD: 
             ul.lista-ul--color
@@ -33,13 +33,13 @@
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
                 | Alfombrilla antiestática
-          .BGR02.p-4(titulo="Herramientas manuales")
+          .BGR02.p-4(titulo="Manuales")
             .h4 Herramientas manuales
             p.mb-0 Destornillador plano, destornillador phillips, destornillador torx, destornillador hexagonal, pinzas de punta de aguja, cortahílos, tenazas, linterna.
-          .BGR02.p-4(titulo="Herramientas de limpieza")
+          .BGR02.p-4(titulo="Limpieza")
             .h4 Herramientas de limpieza
             p.mb-0 Paño suave, aire comprimido, aturas para cables, organizador de piezas.
-          .BGR02.p-4(titulo="Herramientas de diagnóstico")
+          .BGR02.p-4(titulo="Diagnóstico")
             .h4 Herramientas de diagnóstico
             p.mb-0 Multímetro digital.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")

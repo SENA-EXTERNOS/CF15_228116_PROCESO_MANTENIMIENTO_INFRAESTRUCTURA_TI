@@ -43,31 +43,22 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-primario
           .BGR02.p-4(titulo="Medida 1")
-            .h4 Medida 1
             p.mb-0 Quítese el reloj y las joyas y use ropa suelta.
           .BGR02.p-4(titulo="Medida 2")
-            .h4 Medida 2
             p.mb-0 Antes de realizar cualquier mantenimiento, apague el dispositivo y desconecte el cable de alimentación.
           .BGR02.p-4(titulo="Medida 3")
-            .h4 Medida 3
             p.mb-0 Inserte bordes afilados en la computadora.
           .BGR02.p-4(titulo="Medida 4")
-            .h4 Medida 4
             p.mb-0 Nunca abra la fuente de alimentación o la pantalla CRT.
           .BGR02.p-4(titulo="Medida 5")
-            .h4 Medida 5
             p.mb-0 No toque las áreas calientes de la impresora ni utilice alto voltaje.
           .BGR02.p-4(titulo="Medida 6")
-            .h4 Medida 6
             p.mb-0 Saber dónde está el extintor y cómo usarlo.
           .BGR02.p-4(titulo="Medida 7")
-            .h4 Medida 7
             p.mb-0 Mantenga su lugar de trabajo libre de alimentos y bebidas.
           .BGR02.p-4(titulo="Medida 8")
-            .h4 Medida 8
             p.mb-0 Mantenga su área de trabajo limpia y ordenada.
           .BGR02.p-4(titulo="Medida 9")
-            .h4 Medida 9
             p.mb-0 Cuando levante objetos pesados, doble las rodillas para evitar lesiones.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img02.svg")

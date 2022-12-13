@@ -20,10 +20,10 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-secundario
-          .BGR02.p-4(titulo="Licencia De Adquisición Perpetua")
+          .BGR02.p-4(titulo="Licencia Perpetua")
             .h4 Licencia De Adquisición Perpetua
             p.mb-0 Este es quizás el modelo de distribución de aplicaciones más tradicional, donde la solución se comercializa como un activo y quienes la compran tienen derecho a disfrutarla por el resto de sus vidas. Estas licencias compradas no incluyen mantenimiento y actualizaciones.
-          .BGR02.p-4(titulo="Licencias De Uso")
+          .BGR02.p-4(titulo="Licencias de Uso")
             .h4 Licencias De Uso
             p.mb-0 Le permiten usar cierto #[em software], incluidas las actualizaciones, en un solo dispositivo. Estas licencias se pueden comprar juntas o por separado.
           .BGR02.p-4(titulo="Leasing")
@@ -35,7 +35,7 @@
           .BGR02.p-4(titulo="Programa gratuito")
             .h4 Programa gratuito
             p.mb-0 Los usuarios son libres de copiar, distribuir, modificar y ver el código fuente del programa. Pero el hecho de que sea gratuito no significa que el #[em software] sea necesariamente gratuito.
-          .BGR02.p-4(titulo="#[em Software] de fuente libre")
+          .BGR02.p-4(titulo="<em>Software</em> libre")
             .h4 #[em Software] de fuente libre
             p.mb-0 Con este tipo de licencia, los clientes son libres de personalizar las soluciones de acuerdo con sus necesidades, modificar el código escrito por terceros, pero los desarrolladores pueden establecer restricciones de uso, lo que lo diferencia del #[em software] libre.
           .BGR02.p-4(titulo="Freeware")
