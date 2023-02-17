@@ -39,32 +39,6 @@ export default {
         numero: '1',
         titulo: 'Planes de Contingencia',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Procedimientos de Laboratorio',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Prácticas seguras de laboratorio',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Procedimientos para proteger a las personas',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Procedimientos para proteger a las personas',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -73,20 +47,6 @@ export default {
         numero: '2',
         titulo: 'Tecnología',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipo de herramientas',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Arquitectura de servidores',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -94,20 +54,6 @@ export default {
         numero: '3',
         titulo: 'Mantenimiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipos de mantenimiento',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Clasificación de mantenimiento',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -115,20 +61,6 @@ export default {
         numero: '4',
         titulo: 'Manuales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Tipos de procedimientos',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Característica de manuales',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -136,26 +68,6 @@ export default {
         numero: '5',
         titulo: 'Electricidad',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Tipo de instrumentos de medición',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Aislamiento',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Elaboración de fichas técnicas',
-            hash: 't_5_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -163,14 +75,6 @@ export default {
         numero: '6',
         titulo: 'Electrónica Básica',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Componentes electrónicos',
-            hash: 't_6_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -178,14 +82,6 @@ export default {
         numero: '7',
         titulo: 'Planos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.1',
-            titulo: 'Tipo de planos eléctricos',
-            hash: 't_7_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema8',
@@ -193,26 +89,6 @@ export default {
         numero: '8',
         titulo: 'Herramientas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.1',
-            titulo: 'Tipo de herramientas',
-            hash: 't_8_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.2',
-            titulo: 'Uso de herramientas',
-            hash: 't_8_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.3',
-            titulo: 'Clasificación de dispositivos',
-            hash: 't_8_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema9',
@@ -227,79 +103,27 @@ export default {
         numero: '10',
         titulo: 'Mantenimiento de equipos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.1',
-            titulo: 'Tipo de equipos de computo',
-            hash: 't_10_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.2',
-            titulo: 'Tipo de protocolos',
-            hash: 't_10_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema11',
         icono: 'far fa-file-alt',
         numero: '11',
-        titulo: 'Sistemas Operativos Dispositivos Móviles',
+        titulo: 'Sistema Operativos y de computación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '11.2',
-            titulo: 'Aplicación móvil',
-            hash: 't_11_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema12',
         icono: 'far fa-file-alt',
         numero: '12',
-        titulo: 'Sistemas de Computación',
+        titulo: 'Licenciamientos y periféricos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema13',
         icono: 'far fa-file-alt',
         numero: '13',
-        titulo: 'Licenciamientos',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '13.1',
-            titulo: 'Tipos de sistemas operativos',
-            hash: 't_13_1',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema14',
-        icono: 'far fa-file-alt',
-        numero: '14',
-        titulo: 'Periféricos',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema15',
-        icono: 'far fa-file-alt',
-        numero: '15',
         titulo: 'Redes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '15.1',
-            titulo: 'Tipos de sistemas operativos',
-            hash: 't_15_1',
-          },
-        ],
       },
     ],
     subMenu: [

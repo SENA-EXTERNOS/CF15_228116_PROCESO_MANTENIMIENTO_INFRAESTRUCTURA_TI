@@ -7,7 +7,7 @@
         span 7
       h1 Planos
     
-    p.animation-1 Los esquemas eléctricos son gráficos que organizan y describen varios diagramas de características de cableado que describen las características de los materiales y equipos disponibles.<br><br>Una instalación eléctrica se puede representar en uno o más niveles diferentes. 
+    p Los esquemas eléctricos son gráficos que organizan y describen varios diagramas de características de cableado que describen las características de los materiales y equipos disponibles.<br><br>Una instalación eléctrica se puede representar en uno o más niveles diferentes. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.order-lg-1.order-2(data-aos="flip-up")
@@ -17,11 +17,8 @@
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema7/img01.png")
 
-    separador
-    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 7.1 Tipo de planos eléctricos
+    h3(data-aos="fade-right").mt-5 Tipo de planos eléctricos
     
-    p Tipos de planos eléctricos
     .row.justify-content-center.mb-4
       .col-lg-7.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema7/img02.png")

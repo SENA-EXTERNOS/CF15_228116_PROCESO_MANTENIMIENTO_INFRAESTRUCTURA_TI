@@ -7,8 +7,7 @@
         span 8
       h1 Herramientas
     
-    #t_8_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 8.1 Tipo de herramientas
+    h3(data-aos="fade-right").mt-5 Tipo de herramientas
     
     p Las computadoras se han convertido en una parte fundamental del trabajo diario de los humanos como especie dominante. Son omnipresentes y ya están a la altura de la televisión en cuanto a su presencia en el hogar.
 
@@ -45,9 +44,7 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema8/img02.svg")
 
-    separador
-    #t_8_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 8.2 Uso de herramientas
+    h3(data-aos="fade-right").mt-5 Uso de herramientas
 
     .bloque-texto-g.color-acento-botones.bloque-inv.bloque-color-secundario.p-md-5.p-sm-4.p-3.mb-5
       .bloque-texto-g__img(
@@ -56,7 +53,8 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.text-white.mb-0 #[b Herramientas de Hardware]: Hay una herramienta para cada tarea. Asegúrese de conocer el uso adecuado de cada herramienta y utilice la correcta para el trabajo que tiene entre manos. El uso hábil de herramientas y #[em software] facilita el trabajo y garantiza que las tareas se realicen de manera correcta y segura.
 
-    p.animation-1 El kit debe incluir todas las herramientas necesarias para reparar el dispositivo. A medida que gane experiencia, aprenderá las herramientas que necesita para diferentes tipos de trabajos.<br><br>Los instrumentos utilizados en el momento de realizar un mantenimiento funcionan de una forma específica, estos son: Destornilladores y llaves, pinzas de presión, multímetro, silicón multiusos, cámara térmica, pulsera antiestática, cinta eléctrica líquida y pinzas.  
+    p El kit debe incluir todas las herramientas necesarias para reparar el dispositivo. A medida que gane experiencia, aprenderá las herramientas que necesita para diferentes tipos de trabajos.
+    p Los instrumentos utilizados en el momento de realizar un mantenimiento funcionan de una forma específica, estos son: destornilladores y llaves, pinzas de presión, multímetro, silicón multiusos, cámara térmica, pulsera antiestática, cinta eléctrica líquida y pinzas.      
 
 </template>
 

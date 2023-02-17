@@ -7,37 +7,31 @@
         span 1
       h1 Planes de Contingencia
     
-    p Cada técnico necesita ayudar al cliente para que no gaste más de lo necesario en el funcionamiento. No se deje engañar por la verdad desde el principio. Con ese fin, es importante seguir un plan de contingencia de 4 pasos que le permita abordar muchos problemas y minimizar el impacto en su negocio. Por lo tanto, un buen servicio debería hacer esto:
+    p.mb-5 Cada técnico necesita ayudar al cliente, para que no gaste más de lo necesario en el funcionamiento. No se deje engañar por la verdad desde el principio. Con ese fin, es importante seguir un plan de contingencia de 4 pasos que le permita abordar muchos problemas y minimizar el impacto en su negocio. Por lo tanto, un buen servicio debería aplicar los siguientes aspectos:
 
-    .BGIMG01.px-md-5.px-4
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-          AcordionA(tipo="a" clase-tarjeta="BGR01")
-            div(titulo="Análisis de riesgo")
-              p.mb-0 ¿No es seguro trabajar en Internet? ¿Ha perdido muchos archivos importantes porque no guarda copias de seguridad? ¿Existen malas prácticas en la gestión del #[em hardware] informático? Todas estas cosas deben conocerse y resolverse para ayudarlo a evitar problemas.
-            div(titulo="Definir una política de incidencias")
-              p.mb-0 Debe conocer el protocolo a seguir cuando ocurren problemas aleatorios en la computadora. Por ejemplo, habrá muchos problemas que ni siquiera requieren que un técnico venga a su empresa y se pueden manejar de forma remota. En otros casos, debes recuperar los archivos perdidos lo antes posible y tener un grupo de respaldo para seguir trabajando.
-            div(titulo="Adoptar medidas informáticas preventivas")
-              p.mb-0 Se refiere a las principales tareas de mantenimiento preventivo de las computadoras, tales como limpiar la torre por dentro o reparar equipos periféricos, logrando que tus dispositivos duren más.
-            div(titulo="Informar a los empleados")
-              p.mb-0 Los empleados saben qué hacer si sucede algo para evitar que el problema empeore, o para tratar de solucionarlo ellos mismos y empeorarlo.
-        .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src="@/assets/curso/tema1/img01.svg")
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+        AcordionA(tipo="a" clase-tarjeta="BGR01")
+          div(titulo="Análisis de riesgo")
+            p.mb-0 ¿No es seguro trabajar en <i>Internet</i>? ¿Ha perdido muchos archivos importantes porque no guarda copias de seguridad? ¿Existen malas prácticas en la gestión del <i>hardware </i>informático?, todo esto debe conocerse y resolverse para evitar problemas.
+          div(titulo="Definir una política de incidencias")
+            p.mb-0 Debe conocer el protocolo a seguir cuando ocurren problemas aleatorios en la computadora. Por ejemplo, habrá muchos problemas que no requieren de un técnico presencial, se pueden manejar de forma remota. En otros casos, se debe recuperar los archivos perdidos lo antes posible y tener un grupo de respaldo para seguir trabajando.
+          div(titulo="Adoptar medidas informáticas preventivas")
+            p.mb-0 Se refiere a las principales tareas de mantenimiento preventivo de las computadoras, tales como, limpiar la torre por dentro o reparar equipos periféricos, logrando que los dispositivos duren más.
+          div(titulo="Informar a los empleados")
+            p.mb-0 Los empleados saben lo que deben hacer si sucede algo para evitar que el problema se agrave, o para tratar de solucionarlo por sí mismos y no empeorarlo.
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        img(src="@/assets/curso/tema1/img01.svg")
 
-    p Con esta sencilla fórmula (planificación de contingencia para el mantenimiento preventivo), estará preparado para problemas graves que afecten el normal desarrollo de su negocio. En lugar de confiar en los servicios de tecnología que no se preocupan por el bienestar general de su negocio, hágalo bien la primera vez.
+    p Con esta sencilla fórmula (planificación de contingencia para el mantenimiento preventivo), se estará preparado para problemas graves que afecten el normal desarrollo del negocio. En lugar de confiar en los servicios de tecnología que no se preocupan por el bienestar general del negocio, hágalo bien la primera vez.
     
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Procedimientos de Laboratorio
+    h3(data-aos="fade-right").mt-5 Procedimientos de Laboratorio
     
     p Son prácticas básicas de seguridad en el lugar de trabajo, herramientas de #[em hardware] y #[em software] y eliminación de materiales. Las instrucciones de seguridad ayudan a prevenir accidentes, lesiones y protegen el equipo contra daños. Algunas de estas pautas están diseñadas para proteger el medio ambiente de la contaminación causada por la eliminación inadecuada de materiales.
 
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Prácticas seguras de laboratorio
-    
-    .h4 Prácticas de protección personal
-    p.animation-1.mb-5 Las prácticas seguras de trabajo ayudan a prevenir lesiones personales y daños a los equipos informáticos. Por seguridad, el lugar de trabajo debe estar limpio, organizado y debidamente iluminado. Todos deben entender y seguir las reglas de seguridad.<br><br>Siga siempre las instrucciones básicas de seguridad para evitar cortes, quemaduras, descargas eléctricas y daños en los ojos. Se recomienda tener a mano un extintor y un botiquín de primeros auxilios en caso de incendio o accidente. Los cables retorcidos o sueltos pueden suponer un riesgo de fallo en la instalación de la red. Los cables deben colocarse en conductos de cables o bandejas de cables para evitar peligros.<br><br>A continuación, se proporciona una lista completa de medidas básicas de seguridad informática:
+    h3(data-aos="fade-right").mt-5 Prácticas seguras de laboratorio
+
+    p.mb-5 Las prácticas seguras de trabajo ayudan a prevenir lesiones personales y daños a los equipos informáticos. Por seguridad, el lugar de trabajo debe estar limpio, organizado y debidamente iluminado. Todos deben entender y seguir las reglas de seguridad.<br><br>Siga siempre las instrucciones básicas de seguridad para evitar cortes, quemaduras, descargas eléctricas y daños en los ojos. Se recomienda tener a mano un extintor y un botiquín de primeros auxilios en caso de incendio o accidente. Los cables retorcidos o sueltos pueden suponer un riesgo de fallo en la instalación de la red. Los cables deben colocarse en conductos de cables o bandejas de cables para evitar peligros.<br><br>A continuación, se proporciona una lista completa de medidas básicas de seguridad informática:
 
     .row.justify-content-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -63,9 +57,7 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img02.svg")
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.3 Procedimientos para proteger a las personas
+    h3(data-aos="fade-right").mt-5 Procedimientos para proteger a las personas
 
     p Siga las pautas de seguridad eléctrica para evitar incendios, lesiones o la muerte en su hogar o lugar de trabajo. Las fuentes de alimentación y los monitores CRT son dispositivos de alto voltaje.
     p #[b Advertencia]: No use una muñequera antiestática cuando realice el mantenimiento de fuentes de alimentación o monitores CRT. Solo los técnicos capacitados deben intentar reparar las fuentes de alimentación y los monitores CRT.
@@ -91,7 +83,7 @@
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 1
-            | Nunca apague un fuego descontrolado o descontrolado
+            | Nunca apague un fuego descontrolado 
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 2
@@ -145,9 +137,7 @@
               .h4 R
               p.mb-0 Pulverizar moviendo la boquilla de lado a lado.
 
-    separador
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4 Procedimientos para proteger equipos y datos
+    h3(data-aos="fade-right").mt-5 Procedimientos para proteger equipos y datos
     
     p Partiendo de lo anterior, ahora se detallarán los procedimientos para proteger los equipos:
 
@@ -164,7 +154,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
           .BGR03A.p-4
-            p.mt-5.mb-0 Para que una persona experimente ESD, se debe generar una carga estática de al menos 3000 V. Por ejemplo, puede acumular electricidad estática si camina sobre un piso alfombrado, y si toca a otra persona, ambos pueden electrocutarse. Si la descarga es dolorosa o ruidosa, probablemente sea superior a 10 000 V. En comparación, menos de 30 V de la electricidad estática puede dañar los componentes de la computadora.
+            p.mt-5.mb-0 Para que una persona experimente ESD, se debe generar una carga estática de al menos 3000 V. Por ejemplo, puede acumular electricidad estática si camina sobre un piso alfombrado, y si toca a otra persona, ambos pueden electrocutarse. Si la descarga es dolorosa o ruidosa, probablemente sea superior a 10000 V. En comparación, menos de 30 V de electricidad estática puede dañar los componentes de la computadora.
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img13.svg' alt='AvatarTop')
           .BGR03A.p-4
@@ -183,7 +173,8 @@
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
                 | Use muñequeras antiestáticas cuando trabaje en una computadora.
 
-    .h4 Von Neuman y Harvard
+    h3 Von Neuman y Harvard
+    p.mb-5 A continuación, lo invitamos a ver el siguiente video, donde podrá profundizar sobre la arquitectura de Neumann:
     figure.mb-4(data-aos="zoom-out")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

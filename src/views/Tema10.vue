@@ -13,11 +13,9 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema10/img01.svg")
 
-    separador
-    #t_10_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 10.1 Tipo de equipos de computo
+    h3(data-aos="fade-right").mt-5 Tipo de equipos de computo
     
-    p.animation-1.mb-5 Antes, los equipos de cómputo ocupaban edificios enteros y eran utilizados para complejos cálculos científicos. Hoy en día, encontramos dispositivos multiusos con capacidades ilimitadas del tamaño de un reloj de pulso, incluso.<br><br>#[b Ahora bien, ¿qué computadora es mejor?, ¿qué capacidades le conviene más?, ¿Qué funciones de procesamiento y almacenamiento elegir? ¿Qué características multimedia debería elegir? Con tantas opciones, es difícil decir cuál es la mejor.]<br><br>Seguiremos con los tipos de ordenadores que aportan importantes beneficios y ayudan a mejorar la competitividad de empresas y clientes:
+    p.mb-5 Antes, los equipos de cómputo ocupaban edificios enteros y eran utilizados para complejos cálculos científicos. Hoy en día, encontramos dispositivos multiusos con capacidades ilimitadas del tamaño de un reloj de pulso, incluso.<br><br>#[b Ahora bien, ¿qué computadora es mejor?, ¿qué capacidades le conviene más?, ¿Qué funciones de procesamiento y almacenamiento elegir? ¿Qué características multimedia debería elegir? Con tantas opciones, es difícil decir cuál es la mejor.]<br><br>Seguiremos con los tipos de ordenadores que aportan importantes beneficios y ayudan a mejorar la competitividad de empresas y clientes:
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-md-6.col-8.mb-lg-0.mb-4(data-aos="flip-up")
@@ -63,9 +61,7 @@
                 img(src='@/assets/curso/tema10/img07.svg')
           h4.text-center Estaciones de trabajo
 
-    separador
-    #t_10_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 10.2 Tipo de protocolos
+    h3(data-aos="fade-right").mt-5 Tipo de protocolos
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
