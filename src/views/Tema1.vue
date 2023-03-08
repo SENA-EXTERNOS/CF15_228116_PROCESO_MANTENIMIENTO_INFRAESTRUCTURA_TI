@@ -83,23 +83,23 @@
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 1
-            | Nunca apague un fuego descontrolado 
+            | Nunca apague un fuego descontrolado. 
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 2
-            | Planifique siempre su escape antes de empezar
+            | Planifique siempre su escape antes de empezar.
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 3
-            | Salga del edificio rápidamente
+            | Salga del edificio rápidamente.
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 4
-            | Llame a la línea de emergencia para obtener ayuda
+            | Llame a la línea de emergencia para obtener ayuda.
           li 
             .lista-ol--cuadro__vineta(style="background-color:#4DD0E1")
               span 5
-            | Ubique y lea el manual del operador antes de usar un extintor de incendios en el lugar de trabajo
+            | Ubique y lea el manual del operador antes de usar un extintor de incendios en el lugar de trabajo.
 
     p Todos los tipos de extintores contienen una sustancia química especial para extinguir diferentes tipos de incendios; de acuerdo con el material que se encuentre afectado en el momento, debe tener en cuenta las instrucciones indicadas en el extintor. 
 

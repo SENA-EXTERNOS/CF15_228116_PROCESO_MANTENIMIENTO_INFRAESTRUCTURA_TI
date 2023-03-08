@@ -28,10 +28,10 @@
             ul.lista-ul--color
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | La pulsera antiestática
+                | La pulsera antiestática.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Alfombrilla antiestática
+                | Alfombrilla antiestática.
           .BGR02.p-4(titulo="Manuales")
             .h4 Herramientas manuales
             p.mb-0 Destornillador plano, destornillador phillips, destornillador torx, destornillador hexagonal, pinzas de punta de aguja, cortahílos, tenazas, linterna.

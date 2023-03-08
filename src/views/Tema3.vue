@@ -7,7 +7,7 @@
         span 3
       h1 Mantenimiento
     
-    p Es el proceso de tratar un activo en particular para que no se vea afectado por el paso del tiempo, por el uso o los cambios de condición, ya sea bienes físicos o virtuales, además, existen más áreas donde se puede aplicar el término, por ejemplo; puede referirse al mantenimiento de una vivienda, una obra de arte, un vehículo, un programa o conjunto de programas, un sistema, entre otros. El mantenimiento suele ser realizado por especialistas en este campo.
+    p.mb-5 Es el proceso de tratar un activo en particular para que no se vea afectado por el paso del tiempo, por el uso o los cambios de condición, ya sea bienes físicos o virtuales, además, existen más áreas donde se puede aplicar el término, por ejemplo; puede referirse al mantenimiento de una vivienda, una obra de arte, un vehículo, un programa o conjunto de programas, un sistema, entre otros. El mantenimiento suele ser realizado por especialistas en este campo.
 
     .BGIMG03.p-4(data-aos="zoom-out")
       PasosB.color-secundario
@@ -28,22 +28,22 @@
             ul.lista-ul--color
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Desfragmentar los discos duros
+                | Desfragmentar los discos duros.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Instalar las actualizaciones de seguridad del sistema operativo
+                | Instalar las actualizaciones de seguridad del sistema operativo.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Mantener las aplicaciones actualizadas
+                | Mantener las aplicaciones actualizadas.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Limpiar los datos de navegación cada cierto tiempo
+                | Limpiar los datos de navegación cada cierto tiempo.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Instalar alguna herramienta antimalware y hacer un <i>scan</i> periódicamente
+                p.mb-0 Instalar alguna herramienta antimalware y hacer un <i>scan</i> periódicamente.
               li
                 i.fas.fa-circle(style="color:#0B5999; font-size:x-small")
-                | Vaciar la papelera de reciclaje constantemente
+                | Vaciar la papelera de reciclaje constantemente.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema3/img03.svg")
         .row.justify-content-center.align-items-center(titulo="Paso 4")
