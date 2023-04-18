@@ -37,7 +37,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Planes de Contingencia',
+        titulo: 'Planes de contingencia',
         desarrolloContenidos: true,
       },
 
@@ -73,7 +73,7 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Electrónica Básica',
+        titulo: 'Electrónica básica',
         desarrolloContenidos: true,
       },
       {

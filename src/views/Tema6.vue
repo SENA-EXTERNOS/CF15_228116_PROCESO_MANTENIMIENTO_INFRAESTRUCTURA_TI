@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Electrónica Básica
+      h1 Electrónica básica
     
     p.mb-5 Consiste en estudiar componentes electrónicos discretos fundamentales, como bloques de construcción para circuitos de programación. El estudio del funcionamiento de circuitos analógicos y digitales se basa en la comprensión de componentes discretos como resistencias, diodos y transistores.<br><br>#[b Componentes electrónicos]: Son dispositivos que forman parte de un circuito electrónico. Estos componentes se pueden dividir en semiconductores, activos, pasivos, optoelectrónicos, electromagnéticos, etc. Están diseñados para conectarse a una placa de circuito impreso, generalmente mediante soldadura para formar un circuito.
     

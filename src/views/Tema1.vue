@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Planes de Contingencia
+      h1 Planes de contingencia
     
     p.mb-5 Cada técnico necesita ayudar al cliente, para que no gaste más de lo necesario en el funcionamiento. No se deje engañar por la verdad desde el principio. Con ese fin, es importante seguir un plan de contingencia de 4 pasos que le permita abordar muchos problemas y minimizar el impacto en su negocio. Por lo tanto, un buen servicio debería aplicar los siguientes aspectos:
 
@@ -177,7 +177,7 @@
     p.mb-5 A continuación, lo invitamos a ver el siguiente video, donde podrá profundizar sobre la arquitectura de Neumann:
     figure.mb-4(data-aos="zoom-out")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ScijTrj9Zk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
