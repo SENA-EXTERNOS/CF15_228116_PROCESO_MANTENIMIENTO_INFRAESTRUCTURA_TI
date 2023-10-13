@@ -31,7 +31,7 @@
             .col-7
               figure
                 img(src='@/assets/curso/tema10/img03.svg')
-          h4.text-center Mainframes o macrocomputadoras
+          h4.text-center #[em Mainframes] o macrocomputadoras
       .col-lg-4.col-md-6.col-8.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
@@ -45,7 +45,7 @@
             .col-7
               figure
                 img(src='@/assets/curso/tema10/img05.svg')
-          h4.text-center Laptops
+          h4.text-center #[em Laptops]
       .col-lg-4.col-md-6.col-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3

@@ -34,7 +34,7 @@
                 | Alfombrilla antiestática.
           .BGR02.p-4(titulo="Manuales")
             .h4 Herramientas manuales
-            p.mb-0 Destornillador plano, destornillador phillips, destornillador torx, destornillador hexagonal, pinzas de punta de aguja, cortahílos, tenazas, linterna.
+            p.mb-0 Destornillador plano, destornillador Phillips, destornillador Torx, destornillador hexagonal, pinzas de punta de aguja, cortahílos, tenazas, linterna.
           .BGR02.p-4(titulo="Limpieza")
             .h4 Herramientas de limpieza
             p.mb-0 Paño suave, aire comprimido, aturas para cables, organizador de piezas.

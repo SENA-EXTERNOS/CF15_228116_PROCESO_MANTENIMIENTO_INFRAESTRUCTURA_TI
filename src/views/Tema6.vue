@@ -31,7 +31,7 @@
             img(src="@/assets/curso/tema6/img03.png")
         .row.justify-content-center.align-items-center
           .col-lg-5.col-10.order-lg-1.order-2
-            .h4 LED (Light Emitting Diode)
+            .h4 LED (#[em Light Emitting Diode])
             p.mb-0 Es un dispositivo semiconductor que emite luz monocromática, roja, verde, azul, amarilla, infrarroja, láser, etc. cuando están directamente polarizados y pasa una corriente eléctrica a través de ellos. Sus terminales son ánodo (terminal largo) y cátodo (terminal corto). Su voltaje de umbral es de 1,3 a 4 V, dependiendo del color del diodo. 
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema6/img04.png")

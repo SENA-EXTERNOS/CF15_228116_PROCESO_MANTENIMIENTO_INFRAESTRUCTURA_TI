@@ -21,13 +21,13 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-secundario
           .BGR02.p-4(titulo="Licencia Perpetua")
-            .h4 Licencia De Adquisición Perpetua
+            .h4 Licencia de Adquisición Perpetua
             p.mb-0 Este es quizás el modelo de distribución de aplicaciones más tradicional, donde la solución se comercializa como un activo y quienes la compran tienen derecho a disfrutarla por el resto de sus vidas. Estas licencias compradas no incluyen mantenimiento y actualizaciones.
           .BGR02.p-4(titulo="Licencias de Uso")
             .h4 Licencias De Uso
             p.mb-0 Le permiten usar cierto #[em software], incluidas las actualizaciones, en un solo dispositivo. Estas licencias se pueden comprar juntas o por separado.
-          .BGR02.p-4(titulo="Leasing")
-            .h4 Leasing
+          .BGR02.p-4(titulo="<em>Leasing</em>")
+            .h4 #[em Leasing]
             p.mb-0 También conocido como ASP (Proveedor de Servicios de Aplicaciones). En este caso, el <i>software</i> no está alojado en el <i>hardware</i> y servidores de la empresa.
           .BGR02.p-4(titulo="SAAS")
             .h4 SAAS

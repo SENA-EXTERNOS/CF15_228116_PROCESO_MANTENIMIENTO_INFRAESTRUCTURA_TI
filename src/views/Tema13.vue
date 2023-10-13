@@ -16,11 +16,11 @@
         AcordionA.color-primario(tipo="a" clase-tarjeta="BGR08")
           div(titulo="LAN (red de área local)")
             p.mb-0 Una red de área local es una red restringida, la mayoría de la cual es privada, que conecta computadoras dentro de un solo edificio, oficina o campus universitario.
-          div(titulo="MAN (Red de área metropolitana)")
+          div(titulo="MAN (red de área metropolitana)")
             p.mb-0 La red de área metropolitana está diseñada para conectar dispositivos en una ciudad.
           div(titulo="WAN (red de área amplia)")
             p.mb-0 Una red de área amplia es una red que proporciona transporte en una gran área geográfica (regional, nacional o incluso internacional).
-          div(titulo="PAN (Redes de área personal)")
+          div(titulo="PAN (redes de área personal)")
             p.mb-0 Las PAN tienen un alcance muy limitado (varios metros) y se utilizan para conectar de forma inalámbrica dispositivos personales (PC, portátiles, teléfonos móviles, PDA, impresoras, etc.).
       
     h3(data-aos="fade-right").mt-5 Redes convergentes
