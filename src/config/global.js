@@ -249,7 +249,7 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'bsginstitute. (s.f.). bsginstitute. Obtenido de',
+      referencia: 'Bsginstitute. (s.f.). bsginstitute. Obtenido de',
       link:
         'https://bsginstitute.com/bs-campus/blog/que-es-mantenimiento-preventivo-1133',
     },
@@ -258,7 +258,7 @@ export default {
         'Burgos Hernández, Agustín Emilio/ Cuaran Muñoz, Juan Carlos. Software Educativo Multimedia En La Línea Para Mantenimiento De Computadores. Universidad Antonio Nariño, 9999. Print.',
     },
     {
-      referencia: 'eurofins. (21 de junio de 2020). envira. Obtenido de',
+      referencia: 'Eurofins. (21 de junio de 2020). envira. Obtenido de',
       link:
         'https://envira.es/es/diferentes-tipo-de-mantenimiento-existen-empresa/#:~:text=Dependiendo%20del%20trabajo%20a%20realizar,%3A%20preventivo%2C%20correctivo%20y%20predictivo',
     },
@@ -268,11 +268,11 @@ export default {
     },
     {
       referencia:
-        'icontec internacional. (17 de 03 de 1999). docplayer. Obtenido de',
+        'Icontec internacional. (17 de 03 de 1999). docplayer. Obtenido de',
       link: 'https://docplayer.es/77035573-Guia-tecnica-colombiana-62.html',
     },
     {
-      referencia: 'informacion, t. (2018).',
+      referencia: 'Tecnologías informacion, t. (2018).',
       link:
         'https://www.tecnologias-informacion.com/arquitectura-servidores.html',
     },
@@ -285,7 +285,7 @@ export default {
       link: 'https://www.datadec.es/blog/pasos-plan-mantenimiento-preventivo',
     },
     {
-      referencia: 'web, h. p. (s.f.). protocolo de comunicaciones. Obtenido de',
+      referencia: 'Web, h. p. (s.f.). protocolo de comunicaciones. Obtenido de',
       link: 'https://neo.lcc.uma.es/evirtual/cdd/tutorial/modelos/clbas.html',
     },
   ],
