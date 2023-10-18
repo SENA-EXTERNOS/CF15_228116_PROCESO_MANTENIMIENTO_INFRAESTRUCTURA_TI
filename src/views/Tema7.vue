@@ -15,13 +15,13 @@
           p Para representar estos planos, es posible utilizar diferentes tipos de planos eléctricos prescritos y estandarizados, donde el plano eléctrico se entiende como un conjunto de conexiones eléctricas y relaciones correspondientes a través de símbolos de componentes del sistema eléctrico.
           p.mb-0 En la confección de un plano o un esquema se suelen utilizar símbolos y figuras, así como marcas o referencias.
       .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema7/img01.png")
+        img(src="@/assets/curso/tema7/img01.svg")
 
     h3(data-aos="fade-right").mt-5 Tipo de planos eléctricos
     
     .row.justify-content-center.mb-4
       .col-lg-7.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src="@/assets/curso/tema7/img02.png")
+        img(src="@/assets/curso/tema7/img02.svg")
       .col-lg-5(data-aos="fade-left")
         LineaTiempoD.color-primario
           p(numero="1" titulo="Alimentación General") Este tipo de planos describe la fuente de alimentación y cualquier circuito auxiliar derivado de la fuente de alimentación principal. Estos caminos alimentan los diversos componentes eléctricos y de control que componen el sistema representado. Estos planos incluyen elementos tales como transformadores, interruptores, fusibles, dispositivos de protección magnética (#[em breakers]), fuentes de alimentación, cables de corriente trifásica, etc.
