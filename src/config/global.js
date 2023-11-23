@@ -249,7 +249,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Bsginstitute. (s.f.). bsginstitute. Obtenido de',
+      referencia:
+        'Bsginstitute. (s.f.). <i>¿Qué es mantenimiento preventivo?</i>  ',
       link:
         'https://bsginstitute.com/bs-campus/blog/que-es-mantenimiento-preventivo-1133',
     },
@@ -258,7 +259,8 @@ export default {
         'Burgos Hernández, Agustín Emilio/ Cuaran Muñoz, Juan Carlos. Software Educativo Multimedia En La Línea Para Mantenimiento De Computadores. Universidad Antonio Nariño, 9999. Print.',
     },
     {
-      referencia: 'Eurofins. (21 de junio de 2020). envira. Obtenido de',
+      referencia:
+        'Eurofins. (21 de junio de 2020). <i>¿Qué diferentes tipos de mantenimiento existen en una empresa?</i>',
       link:
         'https://envira.es/es/diferentes-tipo-de-mantenimiento-existen-empresa/#:~:text=Dependiendo%20del%20trabajo%20a%20realizar,%3A%20preventivo%2C%20correctivo%20y%20predictivo',
     },
@@ -268,20 +270,23 @@ export default {
     },
     {
       referencia:
-        'Icontec internacional. (17 de 03 de 1999). docplayer. Obtenido de',
+        'Icontec internacional. (17 de 03 de 1999). <i>Seguridad de funcionamiento y calidad de servicio. Mantenimiento. Terminología</i>',
       link: 'https://docplayer.es/77035573-Guia-tecnica-colombiana-62.html',
     },
     {
-      referencia: 'Tecnologías informacion, t. (2018).',
+      referencia:
+        'Tecnologías información, t. (2018). <i>La arquitectura de servidores: Cliente-Servidor y Multicapa</i>',
       link:
         'https://www.tecnologias-informacion.com/arquitectura-servidores.html',
     },
     {
-      referencia: 'Martins, J. (16 de agosto de 2022). asana. Obtenido de',
+      referencia:
+        'Martins, J. (16 de agosto de 2022). <i>Qué es un plan de contingencia y cómo crear uno en 8 pasos para evitar riesgos</i>',
       link: 'https://asana.com/es/resources/contingency-plan',
     },
     {
-      referencia: 'Serneguet, M. (20 de 03 de 2018). DATADEC. Obtenido de',
+      referencia:
+        'Serneguet, M. (20 de 03 de 2018). <i>10 pasos para crear un plan de mantenimiento preventivo</i>',
       link: 'https://www.datadec.es/blog/pasos-plan-mantenimiento-preventivo',
     },
     {
